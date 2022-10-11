@@ -32,7 +32,8 @@ Welcome to my page! I'm a teacher turned software engineer who loves to create b
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### Get In Touch :email:	
-Just say hi! I'd love to connect
+Even if it's just say hi, I'd love to connect<br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferhan12/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanjenni@gmail.com)
 <a href='https://docs.google.com/document/d/1ZHl5PJPHHGDEwu1e17lLKq2iiTEcZoNSQedT7aNocPE/edit?usp=sharing' target="_blank"><img alt='Resume' src='https://img.shields.io/badge/RESUME-100000?style=for-the-badge&logo=Resume&logoColor=FFE434&labelColor=E46308&color=7D83FD'/></a>
