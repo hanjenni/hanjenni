@@ -6,6 +6,7 @@ Welcome to my page! I'm a teacher turned software engineer who loves to create b
 * :apple:	forever teacher at heart!
 * :fries:	I love exploring new restaurants and cafes
 * :dog:	spoiled dog mom
+* :computer: check out some of my projects below
 
 
 
