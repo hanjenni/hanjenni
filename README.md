@@ -7,8 +7,7 @@ Welcome to my page! I'm a teacher turned software engineer who loves to create b
 * :fries:	I love exploring new restaurants and cafes
 * :dog:	spoiled dog mom
 * :computer: check out some of my projects below
-* :eyes: website coming soon
-
+* :eyes: Check out my ![website](https://hanjenni.github.io/portfolio/)
 
 
 ### My Tech Stack :mechanical_arm:	
